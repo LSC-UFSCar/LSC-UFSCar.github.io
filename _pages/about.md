@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.ufscar.br'>www.ufscar.br</a>
+subtitle: <a href='https://www.ufscar.br'>www.ufscar.br</a>
 
 profile:
   align: right
