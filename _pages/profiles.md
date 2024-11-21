@@ -18,11 +18,10 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: menotti.png
+    content: menotti.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Sala G7</p>
+      <p>Fone: 3306-6606</p>
 ---
